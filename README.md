@@ -35,7 +35,7 @@ Documenation and Instructions
 <li>Log onto the Automic Web Interface (ECC).</li>
 <li>Navigate to Administation tab</li>
 <li>Click Packs then click Install Pack</li>
-<li>Select the action pack that you downloaded. Upon installation, the pack&nbsp;PCK.CUSTOM.NUGET should appear</li>
+<li>Select the action pack that you downloaded. Upon installation, the pack&nbsp;PCK.CUSTOM_NUGET should appear</li>
 </ol>
 <p>Available actions:</p>
 <ul>
