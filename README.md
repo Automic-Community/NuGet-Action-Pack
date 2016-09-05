@@ -24,7 +24,7 @@ Documenation and Instructions
 <p>Pre-Requisites</p>
 <ul>
 <li>Automic 11.2 or above</li>
-<li><a href="https://marketplace.automic.com/admin/marketplace/details/plugin-manager" target="_blank">Plugin Manager</a></li>
+<li><a href="https://marketplace.automic.com/details/plugin-manager" target="_blank">Plugin Manager</a></li>
 <li>NuGet and a reference in the PATH environment variable</li>
 <li>PowerShell 3 or above</li>
 </ul>
